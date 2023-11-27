@@ -2,7 +2,7 @@
 name = "prova02-api-rest"
 version = "0.1.0"
 description = ""
-authors = ["Seu Nome <seuemail@email.com>"]
+authors = ["Jean Lucas Trojan <jtrojann@gmail.com>"]
 readme = "README.md"
 
 [tool.poetry.dependencies]
